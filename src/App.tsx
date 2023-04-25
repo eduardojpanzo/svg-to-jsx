@@ -1,5 +1,11 @@
+import Home from "./pages/Home";
+
 function App() {
-  return <div> SVG TO JSX</div>;
+  return (
+    <main>
+      <Home />
+    </main>
+  );
 }
 
 export default App;
